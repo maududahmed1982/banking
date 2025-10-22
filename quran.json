@@ -1,5 +1,11 @@
 
 [
+
+{    //video1
+        "vdo_id":"farD_xvSago",
+        "vdo_title":"QURAN tilawat , modhur cheyeo modhur ", 
+        "vdo_desciption": "Dr. Qari Ahmed Naina"
+    },       
 {    //video1
         "vdo_id":"BSm3uQXY4i0",
         "vdo_title":"Peaceful Quran Recitation of Surah Yasin ", 
@@ -69,9 +75,7 @@
         "vdo_id":"ID3-qioPWVc",
         "vdo_title":" সূরা মুলক এর স্বর্গীয় তেলাওয়াতে আত্মাকে প্রশান্ত করুন", 
         "vdo_desciption": "হাফেজ আবু সাঈম"
-    },
-
-        
+    },    
 {    //video9
         "vdo_id":"t5SZG6KEVFQ",
         "vdo_title":" সুরা আররাহ মান", 
